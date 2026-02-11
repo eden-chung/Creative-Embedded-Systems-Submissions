@@ -20,7 +20,11 @@ In KiCad, the schematic editor was used to create the 555 timer circuit. This fi
 
 ![pcb](images/pcb.png)
 
-The resulting PCB and schematic files were then used to convert int SVG files that the CNC milling machine was able to cut. The milling machine has to be used in 3 separate steps:
+The resulting PCB and schematic files were then used to convert into SVG files that the CNC milling machine was able to cut. 
+
+To transfer these SVGs onto the CNC machine, an online application called easel was used.
+
+The milling machine has to be used in 3 separate steps:
 - Etching to create the wires. In this step, the machine has to cut through the copper to make wires in the board, but not too deep such that it goes all the way through. SVG file [here](simple_front.svg).
 - Cutting holes in the PCB. The machine drills holes to allow the components to be put through then soldered at a later stage. SVG file [here](simple_drill.svg).
 - Cutting the outline of the PCB. With the given shape, the machine cuts the outline of the entire PCB. SVG file [here](simple_outline.svg).
