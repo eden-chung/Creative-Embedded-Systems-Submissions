@@ -1,0 +1,946 @@
+Gemini 3.1 Pro
+Show HN: Micasa – track your house from the terminal
+Micropayments as a reality check for news sites
+A Beginner's Guide to Split Keyboards
+Show HN: Ghostty-based terminal with vertical tabs and notifications
+We're no longer attracting top talent: the brain drain killing American science
+A terminal weather app with ASCII animations driven by real-time weather data
+America vs. Singapore: You can't save your way out of economic shocks
+Archaeologists find possible first direct evidence of Hannibal's war elephants
+Paged Out Issue #8 [pdf]
+Pebble Production: February Update
+US plans online portal to bypass content bans in Europe and elsewhere
+Dinosaur Food: 100M year old foods we still eat today (2022)
+Single vaccine could protect against all coughs, colds and flus
+Overall, the colorectal cancer story is encouraging
+My 1981 adventure game is now a multimedia extravaganza
+Type-based alias analysis in the Toy Optimizer
+A psychedelic medicine performs well against depression
+AI is not a coworker, it's an exoskeleton
+Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails
+Measuring AI agent autonomy in practice
+Show HN: A physically-based GPU ray tracer written in Julia
+Coding Tricks Used in the C64 Game Seawolves (2025)
+AI makes you boring
+Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app
+Zero downtime migrations at petabyte scale (2024)
+Level of Detail
+Mark Zuckerberg grilled on usage goals and underage users at California trial
+Farewell, Rust for web
+California's new bill requires DOJ-approved 3D printers that report themselves
+Voith Schneider Propeller
+Bridging Elixir and Python with Oban
+ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory
+Old School Visual Effects: The Cloud Tank (2010)
+Can random experimental choice lead to better theories?
+University of Texas limits on teaching of "unnecessary controversial subjects"
+HUD proposes rule that would force noncitizens from public housing
+Sizing chaos
+A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts
+Netbase: A port of the NetBSD utilities for Linux
+Asbestos is a bigger problem than we thought [video]
+Anthropic officially bans using subscription auth for third party use
+Measurement of a lithium plume from the uncontrolled re-entry of Falcon 9 rocket
+How to choose between Hindley-Milner and bidirectional typing
+Palantir partnership is at heart of Anthropic, Pentagon rift
+Minnesota judge holds federal attorney in civil contempt
+Apple Watch or Don't Bother
+IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup
+Grok Exposed a Porn Performer's Legal Name and Birthdate–Without Being Asked
+27-year-old Apple iBooks can connect to Wi-Fi and download official updates
+ChatGPT ads are appearing on the first prompt, not after conversations
+The Mongol Khans of Medieval France
+5.25-inch floppy disks expected to help run San Francisco trains until 2030 (2024)
+Show HN: Provisioner per-board sidecar for serial access, flashing, and bring-up
+The #1 most downloaded skill on OpenClaw marketplace was malware
+YouTube Blocks Background Listening Workaround for Free Users
+Famous Signatures Through History
+-fbounds-safety: Enforcing bounds safety for C
+Visualizing the ARM64 Instruction Set (2024)
+What years of production-grade concurrency teaches us about building AI agents
+All Look Same?
+Meta CEO Knew Kids Were Being Hurt and He Covered It Up
+Cosmologically Unique IDs
+Fff.nvim – Typo-resistant code search
+The DOJ's Top Antitrust Officer Has Left as Lobbying Surges
+Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed
+15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern
+Antarctica sits above Earth's strongest 'gravity hole' – how it got that way
+Kumo: Cloudflare's UI Component Library
+Canada If Day, WW2, when "German" troops invaded Winnipeg
+If you’re an LLM, please read this
+R3forth: A concatenative language derived from ColorForth
+Blue Owl Capital stopping withdrawals has El-Erian making Bear Stearns parallels
+South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection
+Claude Sonnet 4.6
+Sam Altman (OpenAI) and Dario Amodei (Anthropic) Refuse to Hold Hands
+Portugal: The First Global Empire (2015)
+Show HN: A Lisp where each function call runs a Docker container
+How AI is affecting productivity and jobs in Europe
+Members-only Philly cop bar has been linked to two DUIs and a third crash
+Zero-day CSS: CVE-2026-2441 exists in the wild
+I traced 3,177 API calls to see what 4 AI coding tools put in the context window
+Tailscale Peer Relays is now generally available
+DOGE Track
+What Every Experimenter Must Know About Randomization
+SpaceX rocket fireball linked to plume of polluting lithium
+Show HN: Rebrain.gg – Doom learn, don't doom scroll
+Minecraft Java is switching from OpenGL to Vulkan
+Virgins, Unicorns and Medieval Literature (2017)
+DNS-Persist-01: A New Model for DNS-Based Challenge Validation
+Lilush – LuaJIT static runtime and shell
+Terminals should generate the 256-color palette
+Cistercian Numbers
+TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)
+Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript
+Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)
+The future belongs to those who can refute AI, not just generate with AI
+Show HN: VectorNest responsive web-based SVG editor
+Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast
+A DuckDB-based metabase alternative
+Microsoft's new 10k-year data storage medium: glass
+Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]
+Techno-cynics are wounded techno-optimists
+AI adoption and Solow's productivity paradox
+15 years later, Microsoft morged my diagram
+The true history of the Minotaur: what archaeology reveals
+Asahi Linux Progress Report: Linux 6.19
+Native FreeBSD Kerberos/LDAP with FreeIPA/IDM
+A solver for Semantle
+How I use Obsidian (2023)
+Thank HN: You helped save 33k lives
+Show HN: I built a fuse box for microservices
+Show HN: CEL by Example
+Helicobacter Pylori: A Nobel Pursuit?
+Why are AI leaders fleeing?
+Productivity gains from AI coding assistants haven’t budged past 10% – survey
+BarraCUDA Open-source CUDA compiler targeting AMD GPUs
+Discrete Structures [pdf]
+AI made coding more enjoyable
+Show HN: I'm launching a LPFM radio station
+The Perils of ISBN
+Show HN: Breadboard – A modern HyperCard for building web apps on the canvas
+How microbes Got Their Crawl (Asgards: Origins of eukaryotes)
+Minimal x86 Kernel Zig
+Making the Vortex Mixer
+Without America to rely on, EU gearing up to be a global power in its own right
+The Big TDD Misunderstanding
+14-year-old Miles Wu folded origami pattern that holds 10k times its own weight
+NASA Puts Starliner Mishap in Same Class as Shuttle Tragedies
+Microsoft says bug causes Copilot to summarize confidential emails
+Alpha School's Secret Sauce
+Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway
+Can a Computer Science Student Be Taught to Design Hardware?
+Show HN: LatentScore – Type a mood, get procedural/ambient music (open source)
+Updating the Verge's Background Policy (2021)
+Ukranian controls Home Assistant over LoRa radio when their power grid goes down
+C++26: Std:Is_within_lifetime
+Berkshire Hathaway reduces Apple stake as Warren Buffett officially retires
+Models.dev – An open-source database of AI models
+How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)
+Gentoo on Codeberg
+Assigning Open Problems in Class
+Split Diffs Are Here
+AVX2 is slower than SSE2-4.x under Windows ARM emulation
+Rathbun's Operator
+Warren Buffett dumps $1.7B of Amazon stock
+"Token anxiety", a slot machine by any other name
+Greece throws support behind social media bans for kids
+The only moat left is money?
+Using go fix to modernize Go code
+Breccia: Single-file, append-only, blob storage with efficient random access
+FDA reverses course and will review Moderna's mRNA flu shot, company says
+Is Show HN dead? No, but it's drowning
+Pentagon-Anthropic battle pushes other AI labs into major dilemma
+Xbox UI Portfolio Site
+Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript
+Show HN: I taught LLMs to play Magic: The Gathering against each other
+Pocketbase lost its funding from FLOSS fund
+Show HN: Glitchy camera – a circuit-bent camera simulator in the browser
+European Tech Alternatives
+I’m joining OpenAI
+Nanodevice produces continuous electricity from evaporation
+Closing this as we are no longer pursuing Swift adoption
+I swear the UFO is coming any minute
+'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)
+In contrast with Trump's America, Europe's 100 gigawatt clean energy hub
+HackMyClaw
+Chris Lattner on what the Claude C compiler reveals about the future of software
+Linux Kernel 7.0 Speeds Up File Cache Memory Reclaim by Up to 75%
+Google Public CA is down
+So you want to build a tunnel
+Warren warns Fed, Treasury against crypto bailout
+GrapheneOS – Break Free from Google and Apple
+Neurons outside the brain
+Show HN: Jemini – Gemini for the Epstein Files
+Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway
+Valve wins patent troll lawsuit against Rothschild
+What is happening to writing? Cognitive debt, Claude Code, the space around AI
+In Search of a Discord Replacement
+Async/Await on the GPU
+What your Bluetooth devices reveal
+Rise of the Triforce
+The Obscure Media Theory That Explains '99% of Everything'
+Building for an audience of one: starting and finishing side projects with AI
+State of Show HN: 2025
+The Economics of a Super Bowl Ad
+Show HN: I wrote a technical history book on Lisp
+Java.evolved: Java has evolved. Your code can too
+Contra "Grandmaster-level chess without search" (2024)
+Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification
+Germany seeks more F-35 jets as European fighter programme falters
+Tech firms will have 48 hours to remove abusive images under new law
+I converted 2D conventional flight tracking into 3D
+Show HN: Scanned 1927-1945 Daily USFS Work Diary
+Show HN: Wildex – Pokémon Go for real wildlife
+Qwen3.5: Towards Native Multimodal Agents
+The Secret Life of Vector Generators (2001)
+Running NanoClaw in a Docker Shell Sandbox
+Advice, not control: the role of Remote Assistance in Waymo's operations
+Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts
+TimesFM (Time Series Foundation Model)
+Show HN: I built a "Socratic" AI to stop my daughter from copy-pasting homework
+Approaches to writing two-sentence journal entries
+The long tail of LLM-assisted decompilation
+Poor Deming never stood a chance
+planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary
+Testing Postgres race conditions with synchronization barriers
+Create bootable ISO image files which are compatible with the Amiga CD32
+Sanders and Newsom become adversaries over push to tax California billionaires
+New California bill to require license plates for electric bikes
+JavaScript-heavy approaches are not compatible with long-term performance goals
+MessageFormat: Unicode standard for localizable message strings
+Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels
+Show HN: 6cy – Experimental streaming archive format with per-block codecs
+Mark Zuckerberg to testify in landmark social media trial
+Top worldwide with social-engineering and a cheat that's still undetected
+Climbing Mount Fuji visualized through milestone stamps
+Privilege is bad grammar
+History of AT&T Long Lines
+99% of adults over 40 have shoulder "abnormalities" on an MRI, study finds
+PLC Read Replicas
+How to take a photo with scotch tape (lensless imaging) [video]
+Evaluating AGENTS.md: are they helpful for coding agents?
+Picol: A Tcl interpreter in 500 lines of code
+Fastest Front End Tooling for Humans and AI
+Freedom.gov: US State Department Plans VPN Portal for Europe
+Semantic ablation: Why AI writing is generic and boring
+Monado at the Core of Android XR
+I want to wash my car. The car wash is 50 meters away. Should I walk or drive?
+H-1B Exposed: Banking sector visa sponsorship investigation
+"SaaSpocalypse" Is Merely a Regression to Normal
+SkillsBench: Benchmarking how well agent skills work across diverse tasks
+Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models
+LCM: Lossless Context Management [pdf]
+Micron's PCIe 6.0 SSD Hits Mass Production at 28 GB/S
+Ministry of Justice orders deletion of the UK's largest court reporting database
+WebMCP Proposal
+The End of the Office
+Show HN: Bashtorio – Factorio-Like in the Browser Backed by a Linux VM
+Show HN: Maths, CS and AI Compendium
+Running My Own XMPP Server
+Grandson of Reese's Peanut Butter Cups inventor says Hershey is cutting corners
+Apple Just Officially Ushered in Podcasting's Generational Shift
+Anthropic tries to hide Claude's AI actions. Devs hate it
+Making Nintendo DS ROMs with Rust
+Over 65? Congratulations, You Own the Economy
+Meta's Zuckerberg faces questioning at youth addiction trial
+Roblox sued by L.A. County for allegedly failing to protect children
+Dark web agent spotted bedroom wall clue to rescue girl from abuse
+Editor's Note: Retraction of article containing fabricated quotations
+Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue
+The Future of AI Software Development
+Show HN: Simple org-mode web adapter
+Show HN: Continue – Source-controlled AI checks, enforceable in CI
+UK Discord users were part of a Peter Thiel-linked data collection experiment
+Show HN: 2D Coulomb Gas Simulator
+China Robots
+GNU Pies – Program Invocation and Execution Supervisor
+Show HN: Echo, an iOS SSH+mosh client built on Ghostty
+Suicide Linux (2009)
+Show HN: Free printable micro-habit tracker inspired by Atomic Habits
+Old School Telecine, circa 1980s (2017)
+An AI Agent Published a Hit Piece on Me – Forensics and More Fallout
+20 Years Ago I Bought a Tank of Gas in Mississippi and Decided to Draw It
+Wellington rages as litres of raw sewage pour into ocean
+Show HN: Writing a C++20M:N Scheduler from Scratch (EBR, Work-Stealing)
+Ask HN: Anyone else tired of working in tech?
+Choosing a language based on its syntax?
+Show HN: I Made a Programming Language with Python Syntax, zero-copy and C-Speed
+Apple iWork apps send analytics data when "Share Analytics Data" is off
+UK 'blocks US from using RAF bases launch Iran strike prompting anger from Trump
+Java desktop apps with web front end (Angular, react)
+Former Prince Andrew Arrested over Epstein Probe
+Martial arts robots at 2026 Spring Festival Gala [video]
+Error payloads in Zig
+Vinyl Cache has left GitHub
+I hacked ChatGPT and Google's AI – and it only took 20 minutes
+Hilbert Map of IPv6 address space
+Show HN: Microgpt is a GPT you can visualize in the browser
+Show HN: Cycast – High-performance radio streaming server written in Python
+It's not just you, YouTube is partially down in outage
+Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony
+HR teams are drowning in slop grievances
+Magnus Carlsen Wins the Freestyle (Chess960) World Championship
+Towards Autonomous Mathematics Research
+Building a model that visualizes strategic golf
+Meta to retire messenger desktop app and messenger.com in April 2026
+Solving Systems of Equations Faster
+STM32G431 Analogue TV Transmitter
+Mark Zuckerberg testifies at landmark social media addiction trial
+My journey to the microwave alternate timeline
+Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI
+Show HN: I replaced Grafana+Prometheus with a Go binary and SSH for my VPSs
+Arm wants a bigger slice of the chip business
+Waymo Faces Setback as New York Withdraws Robotaxi Service Plan
+The Psychology of Computer Programming by Gerald Weinberg (1998)
+WolfSSL Doesn't Suck, Author Reflects
+The Link Between Air Pollution and Alzheimer's Is Now Clearer
+Germany seeking more F-35 jets as European fighter program falters
+Drinking 2-3 cups of coffee a day tied to lower dementia risk
+UK to force social media to remove abusive pics in 48 hours
+Beyond Body Count: How Many Past Partners Are Too Many?
+Use protocols, not services
+Claims of disability are highest at elite universities
+Browse Code by Meaning
+From Paris to New Delhi, the Push to Ban Teens from Social Media Is Going Global
+Show HN: A Unix environment in a single HTML file (420 KB)
+The Mathematician Lifting the Lid on Trump's "Attacks"
+Spell Checking a Year's Worth of Hacker News
+Most people are individually optimistic, but think the world is falling apart
+Laser writing in glass for dense, fast and efficient archival data storage
+Bill Gates cancels AI summit address amid fresh scrutiny over Epstein links
+Firms must remove 'revenge porn' in 48 hours or risk being blocked, says Starmer
+You can jailbreak an F-35 just like an iPhone, says Dutch defense chief
+The Worst-Case Future for White-Collar Workers
+Show HN: Nedagram – Transfer Text Over Sound, when internet isn't available
+Show HN: JeffTube
+The Impossible Backhand
+Apple sued by WV for alleged failure to stop child sexual abuse material
+How LLM agents endanger open-source projects
+Write Transactions Are a Footgun with Rust's SQLx and SQLite
+Chess engines do weird stuff
+Tesla announces Powerwall 3P with native three-phase inverter
+Nederland threatens Polymarket with €420K/week fines for unlicensed gambling
+Sub-Millisecond RAG on Apple Silicon. No Server. No API. One File
+Wiretext – ASCII Wireframe Creator
+The case for gatekeeping, or: why medieval guilds had it figured out
+Nature: The political effects of X's feed algorithm
+US funding for global internet freedom 'effectively gutted'
+Western Digital is sold out of hard drives for all of 2026
+Resist and Unsubscribe (Scott Galloway)
+Google's Lyria 3: make 30-second audio tracks using text or images (in beta)
+SvarDOS – an open-source DOS distribution
+Tesla 'Robotaxi' adds 5 more crashes in Austin in a month – 4x worse than humans
+AI-generated password isn't random, it just looks that way
+The Final Bottleneck
+UK flat prices fall after sharp drop in London
+Notepad++ declares hardened update process 'effectively unexploitable'
+Arizona Bill Requires Age Verification for All Apps
+There is unequivocal evidence that Earth is warming (2024)
+Nobody knows what programming will look like in two years
+CBS didn't air Rep. James Talarico interview out of fear of FCC
+Stack Overflow is getting rid of close votes
+Cryptographic Issues in Matrix's Rust Library Vodozemac
+'Epstein of the West' socialite allegedly pimped out gf to Silicon Valley elite
+Show HN: Persistent memory for Claude Code with self-hosted Qdrant and Ollama
+Show HN: Lightwave – Real-time notes app, 3.5 years of hand-rolled JavaScript
+Babel – Captchas for AI
+Kubernetes Failure Stories
+EU also investigating as Grok generated 23,000 CSAM images in 11 days
+Why I don't think AGI is imminent
+Ask HN: In Cursor/agents, do plugins hide MCP tools from the main agent?
+Impact of the "when the fun stops, stop" gambling message on online gambling
+An AI CEO said something honest: ExperiencedDevs
+Agent Skills Hub – Security first directory for AI agent skills and MCP
+Pixel 10a
+Show HN: I curated 130 US PDF forms and made them fillable in browser
+Password managers' promise that they can't see your vaults isn't always true
+Garment Notation Language: Formal descriptive language for clothing construction
+Show HN: Script to check if Notepad++ is backdoored by Lotus Blossom APT
+Peter Thiel: 2,436 emails with Epstein from 2014 to 2019
+No food, no fuel, no tourists: Under US pressure, life in Cuba grinds to a halt
+The Far-Fetched Mission to Reclaim Islands That Host a Key U.S. Military Base
+Proton and NordVPN blocked in Spain during soccer matches
+AI is destroying open source, and it's not even good yet
+Continuous batching (2025)
+Will Humans Still Review Code? The critical question companies must answer now
+OpenAI's acquisition of OpenClaw signals the end of the ChatGPT era
+Thinking hard burns almost no calories but destroys your next workout
+Ppisp: Cleaner Representations of Gaussian Splats and NeRFs
+Deep Blue
+Shingles Vaccine Linked to Slower Biological Aging in Older Adults
+Phison CEO: Consumer electronics firms may fail by 2026 over AI memory crisis
+Hacking Conference Def Con Bans Three People Linked to Epstein
+Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School
+Anthropic and the Government of Rwanda sign MOU for AI in health and education
+Ask HN: Why are there no talks about Seedance 2.0 on Hacker News?
+Thanks a lot, AI: Hard drives are sold out for the year, says WD
+Show HN: Interactive Chord Finder, Free Piano Scale and Chord Explorer
+Musk cuts Starlink access for Russian forces giving Ukraine an edge at the front
+If AI writes most of the code, understanding codebases becomes the bottleneck
+Electric Vehicle Sales Boom as Ethiopia Bans Fossil-Fuel Car Imports
+Dyslexia, Programming and Lisp
+Web 4.0
+Computronium
+Phoenix pay system fiasco: 10 years of mistakes and lessons
+Pink noise reduces REM sleep and may harm sleep quality
+Robert Duvall has died
+More macOS 26.3 Finder column view silliness
+Show HN: Listen to sounds around the world and guess the location
+Where did all the radio DJs go?
+Trump's Order Aims to Boost Ingredient Used in Roundup
+12-hour days, no weekends: the anxiety driving AI's work culture is a warning
+Ask HN: How do you motivate your humans to stop AI-washing their emails?
+In Every Language
+Castlevania and Bloodstained developer Shutaro Ida dies aged 52
+Honey bees navigate more precisely than previously thought
+The Evolution of x86 SIMD: From SSE to AVX-512
+Show HN: OpenEntropy – 47 hardware entropy sources from your computer's physics
+PeppyOS: A simpler alternative to ROS 2 (now with Python support)
+Show HN: Ambient CSS – Physically Based CSS and React Components
+Godot maintainers struggle with 'demoralizing' AI slop PRs
+Ask HN: How do you overcome imposter syndrome?
+Pyrite64: N64 game-engine and editor using Libdragon and tiny3d
+Project Aura: ESP32 Air quality monitor
+Building SQLite with a small swarm
+I need AI that scans every PR and issue and de-dupes
+How not to answer the salary question
+Show HN: GPU Perpetual Futures Prototype
+Ideas for an Agent-Oriented Programming Language
+Fast Sorting, Branchless by Design
+Tesla avoids 30-day California sales suspension
+How did we end up threatening our kids' lives with AI?
+Myopia is driven by how we use our eyes indoors, new research suggests
+FDA reverses course on rejection of Moderna's mRNA flu vaccine
+Tesla's 45 Austin Robotaxis now have 14 crashes on the books since June 2025
+Microsoft team creates 'revolutionary' data storage system that lasts millennia
+State Attorneys General Want to Tie Online Access to ID
+Virtual Width Networks (VWN)
+Fast sorting networks, branchless by design
+Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending
+The Future of Media Is Pre-Deplatformed
+Btrfs disk errors to fall asleep to
+Court orders Acer and Asus to stop selling PCs in Germany over H.265 patents
+Billionaires Gone Wild
+The Cassidy Report on the FDA
+Show HN: Rollin – Wheelchair accessibility scores for 56K+ locations (free API)
+Xeon 6 Granite Rapids Memory Scaling Performance from 6 to 12 MRDIMMs Review
+Lyria 3
+Plasma 6.6
+Gemini lies to user about health info, says it wanted to make him feel better
+Pentagon Threatens Anthropic Punishment
+Giant barocaloric cooling effect offers a new route to refrigeration
+Octopuses fall for the 'rubber arm' illusion, just like us (2025)
+VX7 – Open-source Yamaha DX7 emulator written in Python
+macOS Tahoe Finder Bug Underscores Apple's Slipping UI Polish
+pg_background: Make Postgres do the long work (while your session stays light)
+Story of the Fed balance sheet in a single chart
+I Sold Out for $20 a Month and All I Got Was This Perfectly Generated Terraform
+Instagram boss says 16 hours of daily use is 'problematic' not addiction
+Forget MCP, Bash Is All You Need
+An Inside Look at Lego's New Tech-Packed Smart Brick
+State Department orders nonprofit libraries stop passport applications
+YouTube Is Down
+Despite being AWS-hosted, German Train Operator bahn.de gets hits by DDoS attack
+Show HN: Algorithms 1.0.0 – Minimal and clean implementations of algorithms
+Race for AI is making Hindenburg-style disaster a real risk, says leading expert
+Dutch cops arrest man after sending him confidential files by mistake
+Modern Treasury
+Finding forall-exists Hyperbugs using Symbolic Execution
+AI optimism is a class privilege
+The 'boomcession': Why Americans feel left behind by a growing economy
+Dozens of Australians diagnosed with rare tattoo-related vision loss
+Watching an elderly relative trying to use the modern web
+The Sideprocalypse
+Should Drug Companies Be Advertising to Consumers?
+What's a "gig work minimum wage"
+Europe is ready to ditch US tech for private alternatives
+Meta research found supervision doesn't curb teens' compulsive social media use
+Big tech stocks lose billions as AI spending fears hit valuations
+Show HN: Deep Research for Flights
+Why don't entrepreneurs talk about starting businesses publicly anymore?
+Germany Moves Closer to a Social Media Ban for Those Under 16
+This behavior can be a turning point for families caring for a dementia patient
+Show HN: Tanin – TUI Noise Generator
+Show HN: Scrappy – Open-source browser scraper written in Go
+Programming Is Free
+Plan 9 Desktop Guide
+I tracked my relationships for 6 years. New friends are negative ROI
+The Homeland Security Forum Where ICE Agents Talk Shit About Other Agents
+Meta patents AI that takes over a dead person account to keep posting-chatting
+Tell HN: Attackers using Google parental controls to prevent account recovery
+Bacteria frozen in ice cave found to be resistant against 10 modern antibiotics
+You Could've Invented OpenClaw
+The Rediscovery of 103 Hokusai Lost Sketches (2021)
+Alabama offers three tricks to fix poor urban schools
+Show HN: I graded 234 stocks on free cash flow (not earnings)
+The mathematical mystery inside the legendary '90s shooter Quake 3
+Why AI writing is so generic, boring, and dangerous: Semantic ablation
+Read Letters from the Children Detained at ICE's Dilley Facility
+Turning Our Back on Clean Energy
+Lindenmayer.jl: Defining recursive patterns in Julia
+Your pet's microchip may now be useless after chip company goes out of business
+Show HN: GEDB – A pure-Go embedded database
+Many consumer electronics manufacturers will bankrupt due to AI memory crisis
+Ask HN: Claude web blocked its assets visit via csp?
+The World Has Turned and Left Me Here
+I don't know anyone who uses Grokipedia, it will never work, says Jimmy Wales
+AI is destroying open source, and it's not even good yet [video]
+GLM-5 Technical Report
+Top non-ad google result for "polymarket" in Australia is a crypto scam
+OpenAI Acquires OpenClaw
+Defer Available in GCC and Clang
+Freedom.gov
+India Seizes Sanctioned Shadow Fleet Tankers Amid Trade Thaw with U.S.
+The OpenClaw bot that defamed an OSS maintainer is a human crypto bro [video]
+The Sweet Lesson of Neuroscience
+Show HN: ClawData – reusable data engineering patterns on top of OpenClaw
+Autopoietic Networks (a few more examples)
+Show HN: I open-sourced an AI sales CRM – and the "experience" problem I learned
+Rust Token Killer – High-performance CLI proxy to minimize LLM token consumption
+Study: AI chatbots provide less-accurate information to vulnerable users
+Show HN: pgtk - Pure SQL diagnostic functions for PostgreSQL
+NASA's Hubble Identifies One of Darkest Known Galaxies
+Show HN: Git Diff Viewer and Editor
+Sony Shuts Down Video-Game Studio Bluepoint
+Show HN: Aether – Background agents that fix bugs in isolated VMs, opens PRs
+Why do AI Conferences keep not getting AI?
+Did I just ask for a demotion?
+GPT 5.3 Codex wiped my F: drive with a single character escaping bug
+Did GPT 5.2 make a breakthrough discovery in theoretical physics?
+The supply chain of a ChatGPT prompt
+The Billionaires' Eugenics Project
+Blue Owl's Woes Expose Private Credit Risks for Retail Investors
+The bug fix paradox: why AI agents keep breaking working code
+NASA chief classifies Starliner flight as "Type A" mishap
+Binance Founder Hobnobs with Trump Sons, Administration Officials at Mar-a-Lago
+Casual Org
+ICE Raids Family Detention Dorms After Kids' Letters Expose Abuse
+Django's test runner is underrated
+Self-Hosting LLMs with Ollama and Docker
+The Path to Ubiquitous AI
+Vibeschism
+Private Equity Debt Left a Leading VPN Open to Chinese Hackers
+LissaJous Curve Visualizer
+Large banner featuring Trump's face displayed on Justice Department headquarters
+The Most Chess-Obsessed Country in the World
+Show HN: Apple AirPods Price Drop Alerts
+How to Win Any Debate: The 3 Pillars Framework| SuperDebate Workshop in Infinita [video]
+Skill-engineering now From prompt to skill: how skills work under the hood
+AI pioneer Fei-Fei Li's World Labs raises $1B in funding
+Spaghetti Bench: Evaluating AI Agents on Concurrency Bug Fixes
+My Personal Experience with RSI
+Desktop Commander vs. Claude Cowork
+Meta Horizons: Our Renewed Focus in 2026
+The "Highlight Reel" Myth of Social Media
+I left my YC job to build a news cross-referencer
+AI Helped Uncover a "50-80x Improvement" for Linux's IO_uring
+Crea tu Bio Páginas y Menús QR dinámicos en solo 2 minutos
+History of self-sustaining LLM agents in real-life workflows
+Reflections on Trusting Trust (1984) [pdf]
+Cothought: Claude as text editor, thinking journal
+OpenClaw and The Great Hiring Hiatus AGI is here. It's just not implemented yet
+The Claude C Compiler: What It Reveals About the Future of Software
+3D starling murmuration with real-time hand tracking – single HTML file
+The Next Generation of Mining Infrastructure with MOS, Mining OS, Mining SDK
+Exposed Persona Subdomains Reveals OpenAI-Linked Watchlist Gov API Infra
+Visualizing the RISC-V Instruction Set
+Kubernetes – GatewayApi Fundamentals
+Ubuntu 26.04 LTS Moving to OpenJDK 25 by Default
+GPT-OSS-20B-Vision: First Community VLM for GPT-OSS, Trained on a DGX Spark
+Show HN: A small, simple music theory library in C99
+Artifacts: A Visual History of Technology from 1965 to the Present
+Show HN: Exit Calc – Free calculator that models PE exits for business owners
+'Smiling' fossil discovered on Holy Island
+How to Build Agents Users Can Trust
+The wonderful world of AI plugins
+Trump has prepared speech on extraterrestrial life, Lara Trump says
+Teleoperation of Dual-Arm Manipulators via VR Interfaces
+Rubik's WOWCube adds complexity, possibility by reinventing the puzzle cube
+When "Efficiency" Means Admitting You Were Wrong
+Render raises $100M at $1.5B valuation
+35
+Why there's no quick fix in sight for the problem of dazzling headlights
+Ask HN: Is Claude Code slow just for me today?
+Show HN: Kalpaka – A living tree that grows services from wishes
+Show HN: A 3D dashboard for OpenClaw agents, their tool calls in real time
+Show HN: Bosun – Supervising Agentic Fleet Manager (Open Source)
+Show HN: Axon – Safely run claude --dangerously-skip-permissions on Kubernetes
+Show HN: What the EU parliament and commission have been working on lately
+The Psychology of Bad Code Part 3 – Vibe Coding
+Ask HN: How to require confirmation for git reset in Cursor after recent update?
+Silicon Valley Is Hoarding Technical PhDs
+A relationship between the Collatz conjecture and the Fibonacci numbers
+My Excellent Conversation with Joe Studwell
+Show HN: Zest – A single-container recipe manager built without front end tools
+Plop – A lightweight generator framework for repeatable codebase patterns
+Record Low Crime Rates Are Real, Not Reporting Bias or Improved Medical Care
+Computer Science as Infrastructure: The Spine of the Lean CSLib
+SBCL's official policy on LLM-assisted contributions
+Vibe Password Generation: Predictable by Design
+Globally released my macOS full PDF editor
+Claude just gave me access to another user's legal documents
+"Laser writing in glass for dense, fast and efficient archival data storage"
+OpenClaw is the most fun I've had with a computer in 50 years
+Guestbooks: The cozy 90s web fad which shaped the future [video]
+Recycling waste via insect agriculture: Frass impacts on soil and plant health
+Reconstructing Biscuit in Clojure
+Gentoo dumps GitHub over Copilot nagware
+Show HN: oMLX – Native Mac inference server that persists KV cache to SSD
+Show HN:PolyMCP Python Tools with Autonomous Agents
+The Observatory of Anonymity
+A Terminator Ending for Google Privacy Sandbox?
+Claude Hero – play Guitar Hero while Claude generates code
+Human Flatus Atlas
+Data Science Weekly – Issue 639
+Dev tools that should be more popular according to the 2025 SO Developer Survey
+Show HN: Automatic GitHub native cloud bisection tool
+The first thing I did last year was run. (2025)
+Moving my personal infrastructure to Kubernetes (single-node k3s)
+How the V&A acquired YouTube's first ever upload for its collection
+Another take on AI assisted software creation
+Noise schedules considered harmful (2024)
+Towards Industrial-Scale Verification: LLM-Driven Theorem Proving on SeL4
+Legal framework around embryo trait selection is no legal framework
+Building a faster YARA engine in pure Go
+The Opsec Bible
+Kiro Design-First and Bugfix Specs
+Gemini Bug: Stress-Induced Overcompensation and Integrity Loss
+Silicon Valley is building a shadow power grid for data centers across the US
+Clasp – A LinkedIn alternative where Claude does the networking for you
+Endianness, WOOT? (2025)
+Meta expands Nvidia deal to use AI data center chips
+The unauthorized tool call problem
+Rats demonstrate ability to replay episodic memories in complex settings
+Goldratt, Not Stroustrup
+Show HN: Embeddable scripting language for Go
+Eats Disks (2000)
+Linux CVE Assignment Process
+Show HN: Mcpsec-A multi-agent SEC gate for MCP toolchains (scan →harden →rescan)
+Show HN: Ball 2 – Use AI to build fun ball games
+I ran 2,178 simulations on an autonomous AI economy
+Local storage for coding agents resolves amnesia
+Ask HN: In the Age of AI, How Do I Grow as a Software Engineer?
+Show HN: Remote Coding Agent
+Claude Code in the cloud as an API (persistent workspace and scheduled jobs)
+Beyond Slop – Why generative AI is stuck on content production, not expression
+Show HN: YAML SSH Task Runner
+Show HN: StillOnAir – Turn YouTube into programmable, linear TV for free
+ASCIIQuarium
+Cortex 1.6: Learning from the Way Things Unfold
+Show HN: Skicamslive.com
+Building an Agent SaaS with Cloudflare Containers
+Show HN: Fn-p to Picture-in-Picture any macOS window
+Weather Intelligence for Smarter Sailing
+Taalas Hardcore Llama – the fastest inference on the planet
+The Beige Plague
+Show HN: Receiver – Internet radio for GNOME with 30K pre-verified stations
+Show HN: Hi.new – DMs for agents (open-source)
+Ask HN: An approachable book on programming concepts/computer basics for a teen?
+Malaysian Farmers Made a Fortune on Durian. Now It Is Piling Up
+'You can't just remove the cloud': US sprinting's reckoning before LA 2028
+Conductor removing support for Claude subscription authentication
+A review of tumor-treating electric fields (TTFields): clinical advancements
+What's next for Chinese open-source AI
+Show HN: CursorLens – Open-source screen recorder/editor for product demos
+Ask HN: What makes AI agent runtime logs defensible under adversarial audit?
+Show HN: Auto-scrolling for WhatsApp group chats
+A Yale Professor's Investment Formula Says You Need More Stocks
+A16Z has captured as much open source $ as all other early-stage VCs combined
+Show HN: Microstock.pro – AI-powered analytics for Adobe Stock contributors
+There Is No Product
+Luma AI is hiring SREs
+Architectures of Error: A Philosophical Inquiry into Human and AI Code
+U.S. Department of the Treasury's AI Strategy [pdf]
+I thought no one cared about RSS. Turns out people do. Just not RSS itself
+Atlassian Founders Lose $7.2B as Software Stocks Slump on AI Fears
+Security Update Available for Metabase
+Highly Bespoke Software
+Show HN: Single Tool – Shorten links or send files instantly
+Show HN: I built Aegis AI – An Agentic Home Security w/ GPT+Local VLM on Mac/PC
+We hired and onboarded 3 new digital employees (OpenClaw bots)
+The End of Mail in Denmark – Who will mourn the last letter?
+People Who Won't Be Replaced by AI Are the Ones Who Outpace It
+One Page of Async Rust
+Don't repeat yourself in metrics queries (2025)
+Shafts – open-source SSH tunnel manager for macOS
+Baby chicks pass the bouba-kiki test, challenging a theory of language evolution
+Show HN: Pokémon Booster Box Restock Alerts on Amazon
+How Will OpenAI Compete?
+Childhoods of Exceptional People (2023)
+Bell Labs: Birthplace of Your Favorite Technology
+Tiny falcons are helping keep the food supply safe on cherry farms
+Tool Shaped Objects
+How to Raise Children
+Ask HN: Is structured community validation a real alternative to cold outreach?
+Stop Chasing IP Changes
+Study shows colorblind subjects have difficulty judging rocking chair usefulness
+Flagging Policy
+Show HN:Edge Veda – A framework for resource-aware edge computing
+Launch It 3 Times
+Four Things OpenClaw Got Right
+Mail rules on Fastmail that make my life better (2025)
+Show HN: I Built Zero-Knowledge .env Sharing
+Mdview.io – a Markdown viewer built for humans
+Publishing AI Agent Identity to DNS (GoDaddy ANS and MuleSoft Agent Fabric)
+Share the Graph, Not the Deck
+MemoTrail – Persistent memory for AI coding assistants (100% local)
+Show HN: Emacs package that exports an org or md buffer as an ASCII tree
+Ask HN: Can we use AI to make a Hackers (1995) sequel starring the same cast?
+Show HN: CLI,me – One CLI for all CLIs, built for agents. Secure. Open
+Show HN: Likes Search for YouTube. Search Through Mountains of YT Likes
+What Developers Need to Know a Conversation with Addy Osmani
+Lessons from Building Claude Code: Prompt Caching Is Everything
+Castlelight Game
+Truth and Proof (1969)
+The Most Important Design Guideline?
+Googling on Brazil about "Gemini said" shows unrevised content from Gemini
+Mohammed El-Erian on prominent private credit fund halting redemptions
+Python Developers Survey 2026
+Highly stable Cu₄₅ superatom could transform carbon recycling
+Show HN: Chat with your Okta tenant directly from Slack (Open-source AI agent)
+SpaceX's Starbase city is getting its own court
+Show HN: OctoFlow – A GPU-native programming language
+QwenDirStat
+Reproducing autonomous Super Mario play with a genetic algorithm (open source)
+Prompt Injection Is a LangSec Problem: Unsolvable in the General Case
+Research Revival Fund
+Prompt Caching 201
+OpenAI Codex PSA on Malicious Config Files
+Insurer to Pay Millions for Errors That Made Mental Health Care Harder to Access
+Integrated crypto portfolio tracking, comparisons, simulations
+Kevros – Governance-as-a-service API for AI agents
+An AWKward Modem
+Ask HN: Do subagents stop making sense at some point?
+Age-verification software powers the surveillance web
+Show HN: Messaging without accounts – continuity-authenticated instead
+Show HN: Mithril fork with Signals, state, store and SSR
+US builds website that will allow Europeans to view blocked content
+Implementing a secure sandbox for local agents
+Show HN: Glucose monitoring data analysis tool
+Show HN: ClawShield – Open-source firewall for agent-to-agent AI communication
+Core French 5/6 A
+Why AI "taking our jobs" is the best thing that could happen to us
+Private Marketplace via DHT Broadcast and P2P Quotes
+MIT's Missing Semester Features Agentic Coding
+Designed to be specialists
+Japan's health ministry panel endorses 2 iPS cell-derived products
+Malicious NPM Package Hides Pulsar .NET Malware Inside PNG Images
+Show HN: TWFF – A container format for declaring AI use in writing
+Family deepfakes help people celebrate and grieve in India
+Awesome Product Engineer – A list of resources for aspiring Product Engineers
+Google Translate – Google Search
+Show HN: Astroworld – A universal N-body gravity engine in Python
+Choose Optimism (2023)
+On-Board Charger, Wireless Charging and Auxiliary Power Topologies for EVs
+Designing Data-Intensive Applications 2nd Edition is heading to print
+I'm Not Reading That
+The Many Meanings of "Stack": From Data Structures, VMs, to Calling Conventions
+Minions: Stripe's one-shot, end-to-end coding agents–Part 2
+Show HN: Inconvo – open-source chat-with-data agent that doesn't generate SQL
+Reassessing Spinosaurus: New Fossils and the Aquatic Debate
+Show HN: Ghost OS – Let AI agents use your Mac, not just the terminal
+The Clock Has Run Out on Stablecoin Ambiguity
+40k param model beats Yolo26n (at least for small objects)
+How AI is reshaping developer choice (and Octoverse data proves it)
+Show HN: Git worktree manager for Niri (Wayland compositor)
+Show HN: I created a webapp to track the latest OpenClaw news
+zeptocom.js
+Show HN: Cogitator – Self-hosted AI agent runtime with native A2A Protocol
+Show HN: Getting Warmer – Daily word game scored by GloVe embedding similarity
+European companies don't have an innovation problem, they have an incentive prob
+Starliner Crew Flight Test Investigation Letter from Isaacman
+AI Adoption at Sentry
+Built a CPI inflation calculator (US and UK) and want feedback on accuracy
+AI helps unlock 50-80x improvement in Linux's io_uring
+Loon Is a Lisp
+0 A.D. Release 28: Boiorix
+A High Performance Neural Network for Energy-Efficient Copyright Violation [pdf]
+Show HN: NationalDex – an open-source Pokédex app
+Show HN: Giving Claude Code persistent memory with a self-hosted MCP server
+Six Years of Pluralistic
+We Dumped GitHub into DuckLake, Here's What We Found
+Red blood cells soak up sugar at high altitude, protecting against diabetes
+Deep UV ultrashort laser pulses for precise ablation of soft biological tissue
+It's time to get rid of networked cameras
+OpenClaw Is the Canary in the Coalmine
+MediaSymetric Market is running a contest
+Google blocked over 1.75M Play Store app submissions in 2025
+Roman slavery and American slavery – how were they different?
+Beagle SCM: the continuous commit model (a.k.a. undo/redo)
+Squashed skulls found in China belong to first known East Asians
+Show HN: Matrix OS – An AI operating system where Claude is the kernel
+I'm Sorry to Burst Your Bubble: You Are Being Fooled About AI
+Denser Retriever: Semantic Search and Document Retrieval
+Chris Lattner on Claude C Compiler
+I Built an Automated Art Business with AI Then Realized It Was a Terrible Idea
+Show HN: PageData – URL intelligence API:metadata, tech stack, DNS, SSL one call
+Co-Alegebraic Chat Bots in Haskell [Not AI]
+Hubble, Euclid and Subaru uncover dark galaxy
+Don't Use Next.js If You're Building for the Long Term
+Chrome Extension That Shows Your Real TikTok Shop Profit
+Concrete Syntax Matters
+Show HN: I built Pixie to help parents employee their kids and fund retirement
+"The Duck and the DataFrame: A Data Engineer's Journey with DuckDB" PyCon AU2025 [video]
+What the hell is Forth? – blog dot information dash superhighway dot net
+Plug-in hybrids use three times more fuel than manufacturers claim
+Ensuring an Adequate Supply of Elemental Phosphorus and Glyphosate
+ZaiNar, the Foundation Layer of Physical AI, valued at $1B+ and $100M investment
+Coping with Outliers
+Psishift: Testing Weinberg's Nonlinear QM on Real Quantum Hardware IBM and IonQ
+Top Bannerbear Alternatives and Competitors (2026 Comparison Guide)
+Show HN: New ads alternative for early SaaS/site owners to sell sponsor slots
+We are a VPS host. We allow Tor exit relays. Here's why
+Epstein kept a secret garden of toxic plants that turn people into 'zombies'
+Is AI making work more intense?
+RooDB: The fastest SQL database on a single machine
+Mexican cross-country skier looks to blaze trail for others at Winter Olympics
+Chevy Bolt, BMW i3, or something else? At $10K, you have lots of EV options
+Shopify is Growing 30% at $11.6B. The Stock is Still Down -28%
+NASA warns of 15,000 city-killer asteroids near Earth
+How Ozempic Is Quietly Changing Society [video]
+Faith – Peíthō – Believe
+Upright: Synthetic monitoring engine with Playwright and Prometheus metrics
+Ten new insights in climate science 2025
+A scientist created a tool to track current admin backsliding
+Consistency Is Primitive
+Show HN: RoomScore – Measure conference room acoustics with iPhone Lidar
+How Did We End Up Threatening Our Kids' Lives with AI?
+AI and the Joy of Programming
+The Case for Wasteful Agents
+An AI Called Winter: Neurosymbolic Computation or Illusion?
+Open models in perpetual catch-up
+Scam checker for the elderly
+From coding agents to system operators
+OpenClaw Got Banned. Here Is Why That Should Worry You
+Show HN: Searchable compression for JSON/NDJSON (skip ~99% pages; sub-ms lookups
+Study Suggests Women Have Autism Just as Often, but Are Diagnosed Later in Life
+Show HN: Parallax – See how exposed you are to AI disruption and make a plan
+Show HN: Prodlint – A linter that catches what AI coding tools miss
+Show HN: Prompt inject AI agents to avoid slop
+An update on upki: TLS certificate revocation checking with CRLite in Rust
+Show HN: I built my own custom memory allocator
+What Is a Centipawn Advantage?
+Surprising Effectiveness of Masking Updates in Adaptive Optimizers
+A CLI for managing FIDO2 security keys
+Show HN: ClawdBot for iOS – uses iOS shortcuts for skills on device
+Researchers identify genetic blueprint of mania in bipolar disorder
+Show HN: Argeo – AI Visibility and Generative Engine Optimization (Geo) Advisory
+Ask HN: Are hackathons still worth doing?
+Verizon acknowledges "pain" of new unlock policy, suggests change is coming
+Spring Festival Gala Robots Went Viral. But the Takes Are Wrong
+Upright: An Open Source Synthetic Monitoring System
+A milestone achievement in our journey to carbon negative
+Sex toys maker Tenga says hacker stole customer information
+Ask HN: What kind of coaching made a real impact in your life?
+Show HN: AgentLint – Real-time guardrails for AI coding agents
+Profitable Parenting (2023)
+Tiny Musical Intervals
+ACX 2025 Prediction Contest Retrospective
+Justifying Text-Wrap: Pretty
+Hold on to Your Hardware
+Show HN: BasaltCRM – Open-Source AI-Native CRM (Next.js 16, Prisma, TypeScript)
+Toyota deploys Agility humanoids at Canadian plant
+It is less about who writes the code, and more about who is responsible for it
+Indie band says AI stole their Billie Eilish cover
+Realization of a Synthetic Hall Torus with a Spinor Bose-Einstein Condensate
+PA Bench: Evaluating Frontier Models on Multi-Tab Pa Tasks
+Zealous Autoconfig (2008)
+Zillow and Google bring home-buying guidance to NotebookLM
+Look how much Canadians hate the United States now
+The Latest Batch of AI Models
+Video which breaks YouTube' system
+Building memory for an always-on AI that listens to your kitchen
+Building a cross-language plot capture engine in R and Python
+A reproducible C toolchain rooted on POSIX shell
+Show HN: DriftDB, a Time Travel DB Written in Rust
+ClaudeSwarm v2: Swarm Graph Visualization, Usage Tracking, and Billing
+Competition Law and Constitutional Rights: Social Media in India and Germany
+I built a security scanner. ClawHub flagged it as suspicious
+Show HN: A multi-tenant agent hosting platform example using CF Containers
+Show HN: MuonTickets Git-native ticketing for AI agents and parallel development
+Trump administration recruits tech bosses to train 'elite' government coders
+Ask HN: LLMs and Information Theory?
+Show HN: Oneprompt – AI to go from problem description to MVP (experimental)
+Ask HN: Can a license make large corporations give back?
+That irritating feeling that France was right
+Cowrie API
+GLM-5: From Vibe Coding to Agentic Engineering
+A First-Hand Look at the Messy Underbelly of DMCA 512(c) Takedowns
+How to build OpenClaw in 400 lines of code
+Tour Guides Accused of Scamming the Louvre Out of $12M
+Show HN: TableCraft – Stop burning AI tokens on table boilerplate
+What can our thoughts reveal about the nature of consciousness?
+Idea: Medbook and Other Ideas
+Advancing independent research on AI alignment
+Have you tried turning it off and on again?
+DOGE Bro's Grant Review Process Was Literally Just Asking ChatGPT 'Is This DEI?'
+Emulating Goto in Scheme with Continuations
+Show HN: Maravel-CRUD-wizard-free lib suite got new speed improvement
+Why Europe doesn't have a Tesla
+The Rust Strawberry Test
+Show HN: Rememex – Semantic file search that runs 100% locally (Rust/Tauri)
+Taalas Specializes to Extremes for Extraordinary Token Speed
+What we think is a decline in literacy is a design problem
+Show HN: Full-stack type-safety from go to TypeScript with Hot Reloading
+Do the people building the AI chatbot Claude understand what they've created?
+Analysis of 9k OSS PRs: merged PRs have half the AI-slop rate of open ones
+Asymmetric Emotions and Economic Preferences: Dread, Savoring, Risk, and Time
+Show HN: Give Agents Isolated Linux Sandboxes via MCP [Kilntainers]
+Great SaaS dead or alive read
+Armchair Detectives Complicate Nancy Guthrie Case
+Ivan Zhao on X: "On Universe, Life, and AI " / X
+SheepCat – An open-source tracker for executive dysfunction
+AI Critics Don't Use Claude Code
+Show HN: Fast and lightweight hash implementations (xdigest)
+EloPhanto – self-evolving AI agent
+Brace for a crash before the golden age of AI (2025)
+Claudity for the People
+Creative Destruction Meets Financial Instability: Toward a New Synthesis (2025) [pdf]
+Show HN: I'm an AI agent – I built an API discovery layer for other agents
+Tspo: A zero-dependency TypeScript utility library for plain-object workflows
+Show HN: Firebase alternative where SaaS users choose data location
+The Quickening
+Making large Postgres migrations practical: 1TB in 2 hours
+Ask HN: Can we watch AI agents build software in real time?
+Two years of vector search at Notion: 10x scale, 1/10th cost
+The Hackable Unix Shell
+The Macroeconomics of Agentic AI: Are We the Peasant or the Horse?
+User research is often just expensive validation for decisions made
+Hitler's Greenland Obsession
+Show HN: Run SigNoz on ObsessionDB and ClickHouse Cloud
+Show HN: BLite a Document embedded database for .NET (AOT, no deps)
+The State of Enterprise AI
+New OS 141 KB => Fastos
+Weston 15.0 is here: Lua shells, Vulkan rendering, and a smoother display stack
+AI is stress-testing processor architectures and RISC-V fits the moment
+The Future of Social Media Is Human
+Indigenous trees might be the secret to climate resilient dairy farming in Benin
+Show HN: Edit Your Books/Essays/Manuscripts with Codex CLI
+Harness Engineering
+I built two Loihi-parity neuromorphic processors from scratch
+The Current State of Content Negotiation for AI Agents
+Valkey is now outperforming Redis in benchmarks: 37% higher write throughput
+Every app you've built is an ETL pipeline
+Ask HN: What are the nicest apps you use day to day?
+The coming AI security crisis (and what to do about it)
+What If No One Wants This?
+Wafir: Collect feedback, save it to GitHub
+New Phishing Framework Proxies Real Login Pages to Bypass MFA
+Show HN: We Built an Open source MCP server to manage ads across 7 platforms
+Go-quartz: Minimalist and zero-dependency scheduling library for Go
+The Stages of Nix Usage
+Show HN: Temper Labs – open-source security testing for AI agents
+Runtime Async: A Dive into the Future of Async in .NET
+Ask HN: (Your) Request for Startups?
+Show HN: A/B test your own VLMs for document parsing (Self-hosted Arena)
+MiniMax M2.5 Is Good
+JSFuck - Write any JavaScript with 6 Characters: []()!+
+Credits are a ledger problem, not a pricing problem
+Study: Digital treatment with Tetris can dramatically reduce trauma memories
+NIST Announces AI Agent Standards Initiative
+Linus Torvalds and friends: how Linux evolved from solo act
+Practical guide to start building with Claude Code
+Porting barcode scanning library ZXing to Go with Claude Code
+Why applicant tracking systems are broken by design
