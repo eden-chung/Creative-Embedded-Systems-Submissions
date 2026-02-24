@@ -7,7 +7,6 @@ import csv
 DAYS_BACK = 30
 MAX_STORIES_TOTAL = 2000 
 
-HEADLINES_OUT = "hn_week.txt"
 COUNTS_OUT = "hn_word_counts.csv"
 
 BASE = "https://hacker-news.firebaseio.com/v0"
@@ -101,10 +100,6 @@ def main():
 
     headlines = list(dict.fromkeys(headlines))
 
-    with open(HEADLINES_OUT, "w", encoding="utf-8") as f:
-        for t in headlines:
-            f.write(t + "\n")
-
     items = list(counts.items())
     items.sort(key=lambda x: (-x[1], x[0]))
 
@@ -114,7 +109,6 @@ def main():
         for w, c in items:
             writer.writerow([w, c])
 
-    print(f"Wrote {len(headlines)} headlines to {HEADLINES_OUT}")
     print(f"Wrote {len(items)} unique words to {COUNTS_OUT}")
 
 
