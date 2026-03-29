@@ -1,3 +1,14 @@
+# Interactive Devices Project
+
+## Materials List
+- LilyGo ESP32
+- 3D printed enclosure
+- USB-C Cable
+
+## Documentation from start to finish
+Measure the ESP32 and 
+
+
 python -m http.server 8000
 
 Cat 3D render
